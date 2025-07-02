@@ -1,0 +1,14 @@
+WeatherView-App/
+├── index.html
+├── style.css
+├── weather-app-img/
+│   ├── images/
+│       ├── search.png
+│       ├── clouds.png
+│       ├── clear.png
+│       ├── rain.png
+│       ├── drizzle.png
+│       ├── mist.png
+│       ├── snow.png
+│       ├── humidity.png
+│       ├── wind.png
